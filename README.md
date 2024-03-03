@@ -1,1 +1,3 @@
-#Modem Restart Tool
+# Modem Restart Tool
+
+>  npm run restartmodem
